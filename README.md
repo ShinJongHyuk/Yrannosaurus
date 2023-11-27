@@ -56,16 +56,17 @@
 
 <br />
 <b>공룡 이론 페이지</b>
-![dinosaur](/images/readme/dinosaur.png)
-![dinosaur_location](/images/readme/dinosaur_location.png)
-![dinosaur_detail](/images/readme/dinosaur_detail.png)
+
+![dinosaur](/uploads/eafa3a35f20ce5871ae103ce84573fea/dinosaur.png)
+![dinosaur_location](/uploads/4128278207343754338b5f0a0f3ddd0d/dinosaur_location.png)
+![dinosaur_detail](/uploads/46c9bedda571f82be813fbaef56460c3/dinosaur_detail.png)
 
 - 공룡 상세 정보 보여주기
 - 공룡 위치별 분포도 보여주기
 - 공룡 검색 기능 구현
 
-![korea_dinosaur](/images/readme/korea_dinosaur.png)
-![koread_dino_detail](/images/readme/koread_dino_detail.png)
+![korea_dinosaur](/uploads/356c7032c90b70c63ad9a821e95eb0d5/korea_dinosaur.png)
+![koread_dino_detail](/uploads/d04cb981784802083d32e7b199090a95/koread_dino_detail.png)
 
 - 한국의 공룡 정보 보여주기
 - CLOVA api를 이용한 `TTS` 도입 ( 재생 버튼 누르면 사운드 재생)
